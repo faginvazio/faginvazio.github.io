@@ -54,6 +54,6 @@ You can find out which type it is.
 I think there are so many things we can learn. I'll talk about them as simple as I can.
 That's what I'm going to try.
 
-Cheers :beer:
+Cheers :beers:
 
 [python keywords]: https://docs.python.org/3.5/reference/lexical_analysis.html
