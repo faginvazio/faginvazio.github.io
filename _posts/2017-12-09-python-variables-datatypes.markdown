@@ -28,7 +28,7 @@ You cannot use any reserved words, aka keywords like `and`, `if`, `for`, `True`,
 Don't worry about memorising all reserved words.
 If you try to use them, you get a SyntaxError.
 
-  ```python3
+  ```python
   >>> if = nami
     File "<stdin>", line 1
       if = nami
@@ -41,7 +41,7 @@ Lets talk about basic python data types.
 There are `int`, `float`, `str`, `bool`, `list`, `tuple`, `dict`.
 
 You can find out which type it is.
-  ```python3
+  ```python
   >>> nami = 23
   >>> type(nami)
   <class 'int'>

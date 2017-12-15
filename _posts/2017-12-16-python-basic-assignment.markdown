@@ -12,7 +12,7 @@ Assignment is assigning a value to a variable.
 
 Some examples:
 
-  ```python3
+  ```python
   name = 'nami'
   age = 22
   height = 162.56
@@ -26,13 +26,13 @@ The left-hand side is variable. **=** is assignment operator. Assigning a value 
 
 You can assign simultaneously like this,
 
-  ```python3
+  ```python
   name, age, height = 'nami', 22, 162.56
   ```
 
 This simultaneous assignment is useful to swap values.
 
-  ```python3
+  ```python
   name_1, name_2 = 'nami', 'luffy'
   print(name_1, name_2)  ## nami luffy
 
