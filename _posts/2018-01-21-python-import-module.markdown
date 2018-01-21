@@ -12,14 +12,14 @@ A module is a python file which has functions, classes, or variables.
 To use a module in your python code, you can import it by the `import` statement.
 
 
-  ```Python
+  ```python
   import module
 
   ```
 
 To use a specific attribute from a module, you can use `from ... import` statement.
 
-  ```Python
+  ```python
   from module import attribute
   from module2 import *  ## import all attributes
 
